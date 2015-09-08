@@ -1,0 +1,150 @@
+Initialize engine version: 5.0.0b20 (9831b635e1a8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\AmplifyMotion.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\AmplifyMotion.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Chali\Downloads\Please Stop_Data\Managed\DOTween46.dll into Unity Child Domain
+- Completed reload, in  0.677 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Chali\Downloads\Please Stop_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: df0 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.270267 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 4681.
+Total: 1.612554 ms (FindLiveObjects: 0.327601 ms CreateObjectMapping: 0.155590 ms MarkObjects: 1.107605 ms  DeleteObjects: 0.019705 ms)
+
+Shader 'Custom/Explosion': fallback shader 'none' not found
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4ac -> priority: 1 
+DOTWEEN :: DOTween auto-initialized with default settings (recycleAllByDefault: False, useSafeMode: True, logBehaviour: ErrorsOnly). Call DOTween.Init before creating your first tween in order to choose the settings yourself
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+SpawnPool KidPool: Kid(Clone)043 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)050 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)054 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)056 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)052 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 1387)
+
+SpawnPool KidPool: Kid(Clone)025 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)049 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)016 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)034 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)041 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+SpawnPool KidPool: Kid(Clone)007 has already been despawned. You cannot despawn something more than once!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 48.384857 ms
+
+Unloading 370 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 1.498017 ms (FindLiveObjects: 0.307075 ms CreateObjectMapping: 0.055421 ms MarkObjects: 0.347306 ms  DeleteObjects: 0.786572 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19c4 -> priority: 1 
